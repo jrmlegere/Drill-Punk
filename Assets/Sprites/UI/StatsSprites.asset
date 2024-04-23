@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dabe6c71ca51ce645afeee71a312a598, type: 3}
+  m_Name: StatsSprites
+  m_EditorClassIdentifier: 
+  health:
+  - {fileID: 21300000, guid: 812cb2157d0392d4bad0b3bbfb2c0728, type: 3}
+  - {fileID: 21300000, guid: d77ce1c9369d3d343a0ab58fc18c7f80, type: 3}
+  - {fileID: 21300000, guid: ae98e0cc842eb8e4dbadc077c57105f6, type: 3}
+  - {fileID: 21300000, guid: 8f7e12a1f082dc94fb2087f009920b1f, type: 3}
+  - {fileID: 21300000, guid: 4f189bc13886be04c8cb9438087ba6f7, type: 3}
+  - {fileID: 21300000, guid: 7a32b78c663b382428a17c98ab37e125, type: 3}
+  - {fileID: 21300000, guid: 418d9e7b343c24f49b83db7eac1f0330, type: 3}
+  - {fileID: 21300000, guid: abc227c027ac3ee4993cc78d91d41657, type: 3}
+  - {fileID: 21300000, guid: 9619a7a3e7d6a1249a8e20297fc0012a, type: 3}
+  - {fileID: 21300000, guid: d7cbb01823a7f654682fab9b2eaec7e7, type: 3}
+  - {fileID: 21300000, guid: 3a5238ba9c68c51449360261a7ec11b6, type: 3}
+  hunger:
+  - {fileID: 21300000, guid: 686b500c9c40a33438e065dcd92515e0, type: 3}
+  - {fileID: 21300000, guid: fc8b36cf346aa85448c9a0b8d522b373, type: 3}
+  - {fileID: 21300000, guid: 69471f46ff27961418c29b1c309ad80a, type: 3}
+  - {fileID: 21300000, guid: 3e3a8db6da44ce44cab89c5bc6bf5f2a, type: 3}
+  bHealth:
+  - {fileID: 21300000, guid: 2df4eeefd6c27ce44aec66d7075bbb4b, type: 3}
+  - {fileID: 21300000, guid: 8fe47de91f80efb43b702f7e4fe981ee, type: 3}
+  - {fileID: 21300000, guid: e76ab8651233ee244a05487b3f33f0c7, type: 3}
+  - {fileID: 21300000, guid: ecc441eda6b4b2145b70b2c49943c7f2, type: 3}
+  bHunger:
+  - {fileID: 21300000, guid: 877b32569c6d22f4f955b1e5415f1ae9, type: 3}
+  - {fileID: 21300000, guid: 015bef63a10b8704380039cd59113327, type: 3}
+  bEnergy:
+  - {fileID: 21300000, guid: d289832b2cc1887469465470f51372b2, type: 3}
+  - {fileID: 21300000, guid: 72cef2a4e93e7a2458d4308761c4339d, type: 3}
+  - {fileID: 21300000, guid: 650a0e4853d77674799feddbd7eec306, type: 3}
+  - {fileID: 21300000, guid: 694dc229f628ef644bbc586792df9209, type: 3}
+  - {fileID: 21300000, guid: 02b51eabcd57f564eb48065e203f255e, type: 3}
+  bLove:
+  - {fileID: 21300000, guid: 9096c71a1ed26204e9602454fc141209, type: 3}
+  - {fileID: 21300000, guid: ac8efbc80315c0646b04455e6fa642cf, type: 3}
+  - {fileID: 21300000, guid: 0754a83abf428b84fb25586cf818d91a, type: 3}
+  - {fileID: 21300000, guid: b47d74f78a0a33043bcf2d629913ee50, type: 3}
+  - {fileID: 21300000, guid: 32200cc43e1f4f14a986677f05ecb7ed, type: 3}

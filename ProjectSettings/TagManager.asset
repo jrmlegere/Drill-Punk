@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Drop
+  - Bed
+  - Logic
+  - Updates
+  - Quest 0
+  - Quest 1
+  - Quest 2
+  - Quest 3
+  - Quest 4
+  - Village
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Drill
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Baby
+  - Bullet
+  - Drops
+  - Background
+  - Bed
+  - Background_Ore
+  - Rock
+  - Villager
+  - Quest
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

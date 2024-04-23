@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 091dbe6166526f54d942ff78b22145b8, type: 3}
+  m_Name: TileAtlas
+  m_EditorClassIdentifier: 
+  dirt: {fileID: 11400000, guid: 7f82f85b9d3e9ae409322de661361f6f, type: 2}
+  badDirt: {fileID: 11400000, guid: bc70bd2c7289b2b41b5ea59c818b6623, type: 2}
+  coal: {fileID: 11400000, guid: dd84e15587e784a4088fab664d6c9453, type: 2}
+  plastic: {fileID: 11400000, guid: 57c7e83b6f6c08941ae2b5c17ba14c9e, type: 2}
+  mushroom: {fileID: 11400000, guid: a98601e8b0dcadf4dbb43594c5af2131, type: 2}
+  steel: {fileID: 11400000, guid: 38bd95dc143ecad418e583cb7b5c5eb0, type: 2}
+  trinitite: {fileID: 11400000, guid: 044c86cd7b2c7c344837ec98bee01dba, type: 2}
+  wood: {fileID: 11400000, guid: f7103d60be618fc49b7cc283c9d5e323, type: 2}
+  leaves: {fileID: 11400000, guid: 88b7313bda18f5143930c697ed5eddbd, type: 2}
+  pole: {fileID: 11400000, guid: 5ac9f43ba02713d4e81dedd33ebac4e7, type: 2}
+  sign: {fileID: 11400000, guid: bf9e2804d3af0bc4b9c0a8b3019a953f, type: 2}
+  car_bottom: {fileID: 11400000, guid: e28d3b1f73e169c479243a73f82c3eb1, type: 2}
+  car_front: {fileID: 11400000, guid: 5e04e6b7dcc93d046af202b9e30a64ac, type: 2}
+  car_front_flip: {fileID: 11400000, guid: 69e2b03686f1cdd44bfd5f704a7d57db, type: 2}
+  car_side: {fileID: 11400000, guid: d921f7dfed8ac07428985b7281789fc9, type: 2}
+  car_tire: {fileID: 11400000, guid: 82a4ab0fe33b62e4191ce5f8c4ef7a74, type: 2}
+  car_top: {fileID: 11400000, guid: af122c0c5e0c9f7468941e3567e9a10b, type: 2}
+  car_top_flip: {fileID: 11400000, guid: a9f2d40d740737c4d9b99f2b83e82409, type: 2}
+  rock: {fileID: 11400000, guid: 0f264bec766ecae4c89cfc4a29a9abaf, type: 2}
