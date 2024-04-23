@@ -1,6 +1,9 @@
 2024/04/23 - This version of Drill Punk is the version handed in to Acadia University
-as my final capstone project, and has been unaltered since.
+as my final capstone project, and has been unaltered since. If you would like to try
+Drill Punk for yourself, Download the zip file "Capstone.zip", navigate to 
+Capstone/Capstone/DrillPunk and follow the instructions on the README, which is as follows:
 
+READ ME
 
 Welcome to the world of DrillPunk! Play as a survivor of a nuclear fallout
 navigating the UnderGround with your infant daughter. Collect points as
